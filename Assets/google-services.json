@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1007652303508",
+    "project_id": "qcdc-training-app",
+    "storage_bucket": "qcdc-training-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007652303508:android:978ba161f2414bd0067a81",
+        "android_client_info": {
+          "package_name": "com.Nilesh.QCDC"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgMwa4WDnz7iGPUGLY1SPrghlqC6ZzJ3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
